@@ -1,0 +1,6 @@
+[submodule "Trade-Machine-frontend"]
+	path = Trade-Machine-frontend
+	url = https://github.com/mertSezerO/Trade-Machine-frontend.git
+[submodule "Trade-Machine-backend"]
+	path = Trade-Machine-backend
+	url = https://github.com/mertSezerO/Trade-Machine-backend.git
